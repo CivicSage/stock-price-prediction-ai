@@ -1,4 +1,3 @@
-
 # Stock Price Prediction AI
 
 ## Project Goal  
