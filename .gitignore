@@ -1,0 +1,30 @@
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Data files (avoid committing large datasets)
+data/raw/
+data/processed/
+*.csv
+*.parquet
+*.pickle
+
+# Secrets
+.env
+config/credentials/*
+
+# Jupyter
+.ipynb_checkpoints/
+notebooks/*.ipynb
+
+# Environments
+venv/
+.env/
+
+# IDE
+.vscode/
+.idea/
+
